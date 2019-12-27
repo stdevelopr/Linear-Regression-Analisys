@@ -19,4 +19,4 @@ where y_pred are the predicted values, y_mean is the mean value of the serie and
 
 The file also contains how to use the sklearn library to do the same calculations.
 
-After all the code tries to predict the future next price of the stock based on a given temporal window, returning the R^2 of the selected interval, and the percentage error in the estimation of the closing price.
+After all the code tries to predict the next price of the stock based on a given temporal window, returning the R^2 of the selected interval, and the percentage error in the estimation of the closing price.
